@@ -1,6 +1,6 @@
 
 div#content{
-	background-color: #777;
+	background-color: rgb(21, 231, 126);
 }
 
 div#content div{
@@ -13,14 +13,14 @@ div#content div h1, p, iframe{
 }
 
 div#content div.leftbox{
-	background-color: yellow;
+	background-color: rgb(252, 255, 85);
 	vertical-align: top;
 }
 div#content div.rightbox{
-	background-color: green;
+	background-color: rgb(247, 118, 118);
 }
 div#content div.annonce{
-	background-color: purple;
+	background-color: rgb(192, 251, 253);
 	width: 100%
 	margin: 1;
 }
@@ -31,19 +31,19 @@ nav.menu-nav ul li.btn{
 
 nav.menu-nav ul li.btn a{
 	color: white;
-	background-color: red;
+	background-color: rgb(255, 134, 255);
 	text-decoration: none;
 	padding: 10px;
 }
 
 nav.menu-nav ul li.btn:hover a{
-	color: red;
+	color: rgb(255, 134, 255);
 	background-color: white;
 	transition: 0.3s all;
 }
 
 header{
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 }
 
 div.annonce img{
@@ -51,7 +51,7 @@ div.annonce img{
 }
 
 footer{
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 }
 
 /*p.welcome{
